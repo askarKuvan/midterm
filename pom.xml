@@ -15,7 +15,7 @@
         <version.h2>1.4.200</version.h2>
         <version.jackson>2.10.2</version.jackson>
         <version.rest-assured>4.2.0</version.rest-assured>
-        <version.junit>4.13</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.fest-assert>1.4</version.fest-assert>
         <version.arquillian>1.1.13.Final</version.arquillian>
         <version.jaxb>2.2.11</version.jaxb>
